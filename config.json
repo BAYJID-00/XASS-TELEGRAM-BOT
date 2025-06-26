@@ -1,0 +1,7 @@
+{
+  "BOT_TOKEN": "your_bot_token_here",
+  "OWNER_ID": 123456789,
+  "OWNER_USERNAME": "xass_admin",
+  "BOT_USERNAME": "XASS_TG_BOT",
+  "PREFIX": "/"
+}
