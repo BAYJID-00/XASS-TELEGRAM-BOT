@@ -1,2 +1,2 @@
-# XASS-TELEGRAM-BOT
-XASS-TG-BOT
+# XASS TG BOT
+Instructions to run the bot
