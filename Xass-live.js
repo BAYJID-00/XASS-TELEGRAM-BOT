@@ -11,7 +11,7 @@ bot.start((ctx) => {
 
 
 bot.command("help", (ctx) => {
-  ctx.reply(`📚 Commands:
+  ctx.reply(` Commands:
 ${config.PREFIX}start - Start the bot
 ${config.PREFIX}help - Show this message
 ${config.PREFIX}owner - Show owner info
